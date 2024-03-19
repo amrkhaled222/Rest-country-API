@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/amrkhaled222/Rest-country-AP)]
-- Live Site URL: [(https://rest-country-api-eta.vercel.app/)]
+- Solution URL: [https://github.com/amrkhaled222/Rest-country-AP]
+- Live Site URL: [https://rest-country-api-eta.vercel.app/]
 
 ### Built with
 
